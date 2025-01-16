@@ -1,0 +1,22 @@
+{
+  "name": "fireproject",
+  "version": "1.0.0",
+  "description": "Interactive map of fire damage and markers indicating how to donate and help mutual relief organizations in areas",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zjpricz100/LA-Fire-Relief.git"
+  },
+  "author": "Zachary Pricz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zjpricz100/LA-Fire-Relief/issues"
+  },
+  "homepage": "https://github.com/Zjpricz100/LA-Fire-Relief#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
